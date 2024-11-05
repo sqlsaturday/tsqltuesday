@@ -12,7 +12,7 @@ tags:
     - 'database development'
 ---
 
-[Invitation ](https://www.timmitchell.net/post/2024/10/01/t-sql-tuesday-179-whats-in-your-data-detective-toolkit/) from [Tim Mitchell](https://www.timmitchell.net/)
+[Invitation ](https://www.timmitchell.net/post/2024/10/01/t-sql-tuesday-179-whats-in-your-data-detective-toolkit/) and [roundup](https://www.timmitchell.net/post/2024/10/21/t-sql-tuesday-179-roundup-the-data-detective-toolkit/) from [Tim Mitchell](https://www.timmitchell.net/)
 
 Most of us who work with data have, at least a few times, been presented with a challenge to explore and attempt to make sense of a poorly-defined set of data. Often it’s a collection of text files or Excel documents without any context or documentation. In other cases, it’s a database with no data map or metadata to help explain the purpose of the underlying bits. Sometimes it may be even less structured than that, with the only data points provided being buried in PDF documents or some markup language.
 
