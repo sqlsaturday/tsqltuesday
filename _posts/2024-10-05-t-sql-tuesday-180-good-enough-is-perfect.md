@@ -1,10 +1,10 @@
 ---
 id: 4676
-title: 'T-SQL Tuesday #179Good Enough is Perfect
-date: '2024-09-03T00:02:00+00:00'
+title: 'T-SQL Tuesday #180 - Good Enough is Perfect
+date: '2024-11-05T00:02:00+00:00'
 author: way0utwest
 layout: post
-permalink: '/178'
+permalink: '/180'
 categories:
     - Invitations
 tags:

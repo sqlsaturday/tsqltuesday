@@ -5,17 +5,20 @@ title: "T-SQL Tuesday"
 
 ## The Current Invitation
 
-The current invitation (October 2024) is for T-SQL Tuesday #179. The next invitation should be released on November 5th.
+The current invitation (November 2024) is for T-SQL Tuesday #180. The next invitation should be released on December 3rd.
 
-## T-SQL Tuesday #179: What’s In Your Data Detective Toolkit? 
-[Invitation ](https://www.timmitchell.net/post/2024/10/01/t-sql-tuesday-179-whats-in-your-data-detective-toolkit/) from [Tim Mitchell](https://www.timmitchell.net/)
+## T-SQL Tuesday #180: Good Enough is Perfect
+[Invitation ](https://sqlkitty.com/t-sql-tues-good-perfect/) from [Josephine Bush](https://sqlkitty.com/)
 
-Most of us who work with data have, at least a few times, been presented with a challenge to explore and attempt to make sense of a poorly-defined set of data. Often it’s a collection of text files or Excel documents without any context or documentation. In other cases, it’s a database with no data map or metadata to help explain the purpose of the underlying bits. Sometimes it may be even less structured than that, with the only data points provided being buried in PDF documents or some markup language.
+How can you achieve good enough without compromising the process/product? In the world of database technology, striving for perfection is a double-edged sword. While high standards are important for maintaining reliable, efficient systems, trying for absolute perfection can quickly lead to back-breaking workloads and burnout. It’s equally important to recognize that “good enough is perfect.” This doesn’t mean settling for mediocrity but focusing on realistic goals that get results without burning yourself out.
 
-As data professionals, it often falls on us to help turn data into information and insights even with such vague sources. While an eyes-on approach to data review can work, the sheer volume of data requires that we have a set of tools to automate as much of the data discovery process as possible. We all need a good data detective toolkit to aid in solving such mysteries.
+To me, trying to be perfect is:
+- Working long hours regularly: Sometimes, extra work is necessary, but that should be the exception, not the rule.
+- Overcommitting to Meetings: Attending every meeting to stay in the loop drains time and focus. Prioritize only those essential to your role.
+- Doing It All Yourself: Refusing to delegate because you want things done a specific way limits productivity and can lead to burnout.
+- Perfectionist Deadlines: Setting impossibly tight deadlines to “go above and beyond” often leads to rushed work and fatigue. Aim for realistic timelines.
+- Avoiding Breaks: Skipping lunch or breaks to “stay productive” reduces long-term effectiveness. Breaks are vital for focus and performance.
+- Saying Yes to Every Request: Agreeing to every task to appear helpful spreads you thin. Be selective to focus on high-priority work.
+- Striving to Be Available 24/7: Responding to emails or messages at all hours can feel like dedication but risks burnout. Set clear boundaries for work time and personal time.
 
-What’s in your data detective toolkit?
-
-I’m hosting this month’s T-SQL Tuesday, so here is your challenge: What’s in your data detective toolkit? Share your favorite tricks, methods, language functions (whether T-SQL, Python, or whatever), or software (open-source or commercial) that you’ve found useful in making sense of data mysteries.
-
-I’ll see you back here next week for the roundup post, and I look forward to reading all your posts!
+How do you get to good enough and not burn yourself out with perfect?
