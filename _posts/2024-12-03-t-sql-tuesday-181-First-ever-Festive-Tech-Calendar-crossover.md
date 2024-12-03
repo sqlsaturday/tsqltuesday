@@ -1,13 +1,18 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 4676
+title: 'T-SQL Tuesday #181 - The First Ever T-SQL Tuesday and Festive Tech Calendar Crossover'
+date: '2024-12-03T00:02:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/181'
+categories:
+    - Invitations
+tags:
+    - '2024'
+    - 'SQL Server'
+    - 'Microsoft Data Platform'
 ---
 
-## The Current Invitation
-
-The current invitation (December 2024) is for T-SQL Tuesday #18`. The next invitation should be released on January 7th.
-
-## T-SQL Tuesday #181: 
 [Invitation ](https://www.kevinrchant.com/2024/12/03/t-sql-tuesday-181-first-ever-t-sql-tuesday-and-festive-tech-calendar-crossover/) from [Kevin Chant](https://www.kevinrchant.com/)
 
 This month I have the pleasure of hosting the invite for T-SQL Tuesday, which is the first ever T-SQL Tuesday and Festive Tech Calendar crossover.
