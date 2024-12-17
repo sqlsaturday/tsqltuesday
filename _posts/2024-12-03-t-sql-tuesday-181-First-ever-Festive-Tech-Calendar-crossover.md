@@ -13,7 +13,7 @@ tags:
     - 'Microsoft Data Platform'
 ---
 
-[Invitation ](https://www.kevinrchant.com/2024/12/03/t-sql-tuesday-181-first-ever-t-sql-tuesday-and-festive-tech-calendar-crossover/) from [Kevin Chant](https://www.kevinrchant.com/)
+[Invitation ](https://www.kevinrchant.com/2024/12/03/t-sql-tuesday-181-first-ever-t-sql-tuesday-and-festive-tech-calendar-crossover/) and [roundup](https://www.kevinrchant.com/2024/12/17/t-sql-tuesday-181-roundup/) from [Kevin Chant](https://www.kevinrchant.com/)
 
 This month I have the pleasure of hosting the invite for T-SQL Tuesday, which is the first ever T-SQL Tuesday and Festive Tech Calendar crossover.
 
