@@ -184,7 +184,7 @@ Louis Davidson – Hosted: 1 ([176](../176))
 
 [Riley Major](https://scribnasium.com/) – Hosted: 1 ([102](../102))
 
-[Rob Farley ](http://sqlblog.com/blogs/rob_farley/)– Hosted: 3 ([003](../003), [043](../043)), [182](../182))
+[Rob Farley ](http://sqlblog.com/blogs/rob_farley/)– Hosted: 3 ([003](../003), [043](../043), [182](../182))
 
 [Rob Sewell](https://sqldbawithabeard.com) – Hosted: 1 ([094](../094))
 
