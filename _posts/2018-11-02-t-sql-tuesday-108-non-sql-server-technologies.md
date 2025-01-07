@@ -8,6 +8,7 @@ permalink: '/108'
 categories:
     - Invitations
 tags:
+    - '2018'
     - 'career improvement'
 ---
 
