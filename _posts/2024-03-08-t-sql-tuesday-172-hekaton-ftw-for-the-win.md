@@ -9,6 +9,8 @@ categories:
     - Invitations
 tags:
     - t-sql
+    - '2024'
+
 ---
 
 [Invitation ](https://toddkleinhans.wordpress.com/t-sql-tuesday-172-hekaton-for-the-win-ftw/)from [Todd Kleinhans](https://toddkleinhans.wordpress.com/).

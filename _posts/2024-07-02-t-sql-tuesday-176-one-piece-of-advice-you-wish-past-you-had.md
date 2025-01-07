@@ -8,6 +8,7 @@ permalink: '/176'
 categories:
     - Invitations
 tags:
+    - '2024'
     - career
 ---
 
