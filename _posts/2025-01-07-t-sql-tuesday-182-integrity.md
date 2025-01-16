@@ -13,7 +13,7 @@ tags:
     - 'Microsoft Data Platform'
 ---
 
-[Invitation ](https://lobsterpot.com.au/blog/2025/01/07/t-sql-tuesday-invitation-182-integrity/) from [Rob Farley](https://lobsterpot.com.au/blog/)
+[Invitation ](https://lobsterpot.com.au/blog/2025/01/07/t-sql-tuesday-invitation-182-integrity/) and [round-up](https://lobsterpot.com.au/blog/2025/01/16/round-up-for-t-sql-tuesday-182-integrity/) from [Rob Farley](https://lobsterpot.com.au/blog/)
 
 It’s my turn to host T-SQL Tuesday again. It’s been a while for me. I think the last time was when the topic was Plan Operators and my round-up included a clickable imagemap of a query plan, complete with a Paul White operator, and way too many Lookups. I’ve been contributing to T-SQL Tuesday every month, but hosting has been rare. That operator one was in 2013, and I think the only other time was T-SQL Tuesday #003 in early 2010, when I became the first person not called Adam Machanic to host one.
 
