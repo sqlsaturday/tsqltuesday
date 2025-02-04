@@ -1,11 +1,17 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 18300
+title: 'T-SQL Tuesday #183 - Managing Permissions'
+date: '2025-04-04T00:02:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/183'
+categories:
+    - Invitations
+tags:
+    - '2025'
+    - 'SQL Server'
+    - 'Security'
 ---
-
-## The Current Invitation
-
-The current invitation (February 2025) is for T-SQL Tuesday #183. The next invitation should be released on March 4th.
 
 [Invitation ](https://voiceofthedba.com/2025/02/04/t-sql-tuesday-183-invite-tracking-permissions/) from [Steve Jones](https://voiceofthedba.com/)
 
