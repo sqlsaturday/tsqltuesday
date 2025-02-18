@@ -4,7 +4,7 @@ title: Host Index
 permalink: /host-index/
 ---
 
-A list of people hosting and their totals. If you notice anything missing, contact [@way0utwest](https://www.twitter.com/way0utwest).
+A list of people hosting and their totals. If you notice anything missing, contact [@way0utwest](https://www.twitter.com/way0utwest), BlueSky ([@way0utwest](https://bsky.app/profile/way0utwest.bsky.social)) or [LinkedIn](https://www.linkedin.com/in/way0utwest).
 
 [Aaron Bertrand](https://sqlblog.org/) – Hosted: 1 ([099](../099))
 
