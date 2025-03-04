@@ -1,11 +1,16 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 18400
+title: 'T-SQL Tuesday #184 - Mentoring and Sponsorship'
+date: '2025-03-04T00:02:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/184'
+categories:
+    - Invitations
+tags:
+    - '2025'
+    - 'career'
 ---
-
-## The Current Invitation
-
-The current invitation (March 2025) is for T-SQL Tuesday #184. The next invitation should be released on April 1st.
 
 [Invitation ](https://debthedba.wordpress.com/2025/03/04/t-sql-tuesday-184-the-invitation/) from [Deborah Melkin](https://debthedba.wordpress.com/)
 

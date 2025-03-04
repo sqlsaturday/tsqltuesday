@@ -60,7 +60,7 @@ A list of people hosting and their totals. If you notice anything missing, conta
 
 David Bryce Howard – Hosted: 1 ([026](../026))
 
-[Deborah Melkin](https://debthedba.wordpress.com/) – Hosted: 1 ([152](../152))
+[Deborah Melkin](https://debthedba.wordpress.com/) – Hosted: 2 ([152](../152), [184](../184))
 
 [Derik Hammer](https://www.sqlhammer.com/) – Hosted: 1 ([095](../095))
 
