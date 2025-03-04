@@ -1,7 +1,7 @@
 ---
 id: 18300
 title: 'T-SQL Tuesday #183 - Managing Permissions'
-date: '2025-04-04T00:02:00+00:00'
+date: '2025-02-04T00:02:00+00:00'
 author: way0utwest
 layout: post
 permalink: '/183'
