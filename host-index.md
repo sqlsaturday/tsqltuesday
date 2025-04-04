@@ -68,7 +68,7 @@ David Bryce Howard – Hosted: 1 ([026](../026))
 
 [Elizabeth Noble](https://sqlzelda.wordpress.com/) – Hosted: 1 ([130](../130))
 
-[Erik Darling](https://erikdarlingdata.com/): Hosted: 1 ([164](../164))
+[Erik Darling](https://erikdarlingdata.com/): Hosted: 2 ([164](../164), [185](../185))
 
 [Erin Stellato](http://erinstellato.com) – Hosted: 1 ([032](../032))
 
