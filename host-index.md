@@ -22,6 +22,8 @@ A list of people hosting and their totals. If you notice anything missing, conta
 
 [Andy Leonard](https://andyleonard.blog) – Hosted: 3 ([111](../111), [138](../138), [175](../175))
 
+[Andy Levy](https://www.flxsql.com/) – Hosted: 1 ([186](../186))
+
 [Andy M. Mallon](https://www.am2.co/) – Hosted: 1 ([083](../083))
 
 [Andy Yun](https://sqlbek.wordpress.com/) – Hosted: 3 ([068](../068), [084](../084), [146](../146))

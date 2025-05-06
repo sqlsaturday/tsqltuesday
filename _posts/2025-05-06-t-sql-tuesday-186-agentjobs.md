@@ -1,11 +1,17 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 18500
+title: 'T-SQL Tuesday #185 - Managing Agent Jobs'
+date: '2025-05-06T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/186'
+categories:
+    - Invitations
+tags:
+    - '2025'
+    - 'administration'
+    - 'automation'
 ---
-
-## The Current Invitation
-
-The current invitation (May 2025) is for T-SQL Tuesday #186. The next invitation should be released on June 3rd.
 
 [Invitation](https://www.flxsql.com/2025/05/06/t-sql-tuesday-186-managing-agent-jobs-invite/) from [Andy Levy](https://www.flxsql.com/)
 
