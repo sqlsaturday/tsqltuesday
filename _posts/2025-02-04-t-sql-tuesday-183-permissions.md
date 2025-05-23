@@ -13,7 +13,7 @@ tags:
     - 'Security'
 ---
 
-[Invitation ](https://voiceofthedba.com/2025/02/04/t-sql-tuesday-183-invite-tracking-permissions/) from [Steve Jones](https://voiceofthedba.com/)
+[Invitation ](https://voiceofthedba.com/2025/02/04/t-sql-tuesday-183-invite-tracking-permissions/) and [roundup](https://www.flxsql.com/2025/05/21/t-sql-tuesday-186-roundup/) from [Steve Jones](https://voiceofthedba.com/)
 
 Managing Database Permissions
 One of the things I see lots of people struggle with is the database permissions for their logins/users. DBAs or Ops people are always getting requests to add people, rarely requests to remove people, and not often enough, requests to audit who has permissions.

@@ -7,7 +7,7 @@ title: "T-SQL Tuesday"
 
 The current invitation (May 2025) is for T-SQL Tuesday #186. The next invitation should be released on June 3rd.
 
-[Invitation](https://www.flxsql.com/2025/05/06/t-sql-tuesday-186-managing-agent-jobs-invite/) from [Andy Levy](https://www.flxsql.com/)
+[Invitation](https://www.flxsql.com/2025/05/06/t-sql-tuesday-186-managing-agent-jobs-invite/) and [roundup](https://www.flxsql.com/2025/05/21/t-sql-tuesday-186-roundup/) from [Andy Levy](https://www.flxsql.com/)
 
 One of my favorite non-engine features of SQL Server is [SQL Server Agent](https://learn.microsoft.com/en-us/ssms/agent/sql-server-agent?view=sql-server-ver16). It’s been around for a quarter of a century and while it would be wonderful to see some [new features and revisions brought to it](https://datasteve.com/2020/10/02/sql-server-agent-2-0/), it does its job well and keeps on truckin’ - even in [Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/job-automation-managed-instance?view=azuresql). For this month’s T-SQL Tuesday, I’d like to know:
 
