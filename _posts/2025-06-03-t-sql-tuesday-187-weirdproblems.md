@@ -1,11 +1,17 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 18500
+title: 'T- SQL Tuesday #187 Invitation:  Troubleshooting Weird Problems'
+date: '2025-05-06T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/187'
+categories:
+    - Invitations
+tags:
+    - '2025'
+    - 'administration'
+    - 'development'
 ---
-
-## The Current Invitation
-
-The current invitation (June 2025) is for T-SQL Tuesday #187. The next invitation should be released on July 1st.
 
 [Invitation](https://sqltailor.com/t-sql-tuesday-invitation-how-do-you-troubleshoot/) from [Joe Fleming](https://sqltailor.com/)
 

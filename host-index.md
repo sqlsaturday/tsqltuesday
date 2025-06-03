@@ -106,6 +106,8 @@ David Bryce Howard – Hosted: 1 ([026](../026))
 
 [Jens Vestergaard](http://t-sql.dk/?author=1) – Hosted: 1 ([077](../077), [101](../101))
 
+[Joe Fleming](https://sqltailor.com/)– Hosted: 1 ([187](../187))
+
 [Joey D’Antoni](https://joeydantoni.com/)– Hosted: 1 ([055](../055))
 
 [John McCormack](https://johnmccormack.it/) – Hosted: 1 ([143](../143))
