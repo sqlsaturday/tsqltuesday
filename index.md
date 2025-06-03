@@ -5,7 +5,7 @@ title: "T-SQL Tuesday"
 
 ## The Current Invitation
 
-The current invitation (June 2025) is for [T-SQL Tuesday #187](/187). The next invitation should be released on July 1st.
+The current invitation (June 2025) is for [T-SQL Tuesday #187](../187). The next invitation should be released on July 1st.
 
 [Invitation](https://sqltailor.com/t-sql-tuesday-invitation-how-do-you-troubleshoot/) from [Joe Fleming](https://sqltailor.com/)
 
