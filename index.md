@@ -9,7 +9,7 @@ The current invitation (July 2025) is for [T-SQL Tuesday #188](../188). The next
 
 [Invitation](https://procuresql.com/blog/2025/07/01/tsqltuesday-188-growing-the-younger-data-community-and-speakers/) from [John Sterrett](https://procuresql.com/blog/author/johnsterrett/)
 
-[ProcureSQL[http://procuresql.com/)] wouldn’t exist today if it weren’t for being involved in the community. Straight out of college, Dolph Santorine dragged me along to the local AITP monthly meetings in Wheeling, WV.  This led me to start a SQL Server user group in Wheeling and host SQL Saturday events in both Wheeling and Austin. During SQL Saturday Austin in May, I had a great conversation with Steve about our thoughts on the state of the SQL community post-COVID. We both noticed that the average speaker age wasn’t getting any younger. This leads me to ask this month’s question.
+[ProcureSQL](http://procuresql.com/) wouldn’t exist today if it weren’t for being involved in the community. Straight out of college, Dolph Santorine dragged me along to the local AITP monthly meetings in Wheeling, WV.  This led me to start a SQL Server user group in Wheeling and host SQL Saturday events in both Wheeling and Austin. During SQL Saturday Austin in May, I had a great conversation with Steve about our thoughts on the state of the SQL community post-COVID. We both noticed that the average speaker age wasn’t getting any younger. This leads me to ask this month’s question.
 
 What are you doing, or what can we do to encourage younger people to get involved in the SQL community while increasing the number of younger speakers?
 
