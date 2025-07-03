@@ -112,6 +112,8 @@ David Bryce Howard – Hosted: 1 ([026](../026))
 
 [John McCormack](https://johnmccormack.it/) – Hosted: 1 ([143](../143))
 
+[John Sterrett](https://procuresql.com/blog/author/johnsterrett/) – Hosted: 1 ([188](../188))
+
 [Jon Shaulis](https://jonshaulis.com) – Hosted: 1 ([122](../122))
 
 [Jorge Segarra](http://www.sqlchicken.com/) – Hosted: 3 ([007](../007), [048](../048), [075](../075))
