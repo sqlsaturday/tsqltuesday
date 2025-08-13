@@ -1,7 +1,7 @@
 ---
 id: 18600
 title: 'TSQLTuesday #188 – Growing the Younger Data Community and Speakers'
-date: '2025-05-06T00:00:00+00:00'
+date: '2025-07-01T00:00:00+00:00'
 author: way0utwest
 layout: post
 permalink: '/188'
