@@ -1,11 +1,18 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 18700
+title: 'TSQLTuesday #188 – Growing the Younger Data Community and Speakers'
+date: '2025-08-05T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/189'
+categories:
+    - Invitations
+tags:
+    - '2025'
+    - 'career'
+    - 'AI'
 ---
-
-## The Current Invitation
-
-The current invitation (August 2025) is for [T-SQL Tuesday #189](../189). The next invitation should be released on September 2.
+[Invitation](https://sqlworldwide.com/t-sql-tuesday-189-how-is-ai-changing-your-career/) from [Taiob Ali](https://sqlworldwide.com/)
 
 This month, we’ll explore: How is AI changing our careers?
 

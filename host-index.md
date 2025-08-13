@@ -214,7 +214,7 @@ Louis Davidson – Hosted: 1 ([176](../176))
 
 [Stuart Ainsworth](http://codegumbo.com/) – Hosted: 1 ([022](../022))
 
-[Taiob Ali](https://sqlworldwide.com/) – Hosted: 1 ([132](../132))
+[Taiob Ali](https://sqlworldwide.com/) – Hosted: 2 ([132](../132), [189](../189))
 
 [Tamara Clark](https://clarkcreations.net/blog/) – Hosted: 1 ([129](../129))
 

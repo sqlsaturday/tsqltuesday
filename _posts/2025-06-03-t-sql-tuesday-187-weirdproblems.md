@@ -1,7 +1,7 @@
 ---
 id: 18500
 title: 'T- SQL Tuesday #187 Invitation:  Troubleshooting Weird Problems'
-date: '2025-05-06T00:00:00+00:00'
+date: '2025-06-03T00:00:00+00:00'
 author: way0utwest
 layout: post
 permalink: '/187'
