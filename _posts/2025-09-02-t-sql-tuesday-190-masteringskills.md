@@ -1,14 +1,17 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 18800
+title: 'TSQLTuesday 190 – Growing the Younger Data Community and Speakers'
+date: '2025-08-05T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/190'
+categories:
+    - Invitations
+tags:
+    - '2025'
+    - 'career'
 ---
-
-## The Current Invitation
-
-The current invitation (September 2025) is for [T-SQL Tuesday #190](../190). The next invitation should be released on October 7.
-
 [Invitation](https://toddkleinhans.wordpress.com/2025/09/02/t-sql-tuesday-190-mastering-a-new-or-existing-technical-skill/) from [Todd Kleinhans](https://toddkleinhans.wordpress.com/)
-
 
 Howdy! My name is Todd Kleinhans and I get to host this month’s T-SQL Tuesday topic #190: Mastering A New or Existing Technical Skill.
 
