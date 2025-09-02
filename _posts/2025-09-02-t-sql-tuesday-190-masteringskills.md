@@ -1,6 +1,6 @@
 ---
 id: 18800
-title: 'TSQLTuesday 190 – Growing the Younger Data Community and Speakers'
+title: 'TSQLTuesday 190 – Mastering a New or Existing Technical Skill'
 date: '2025-08-05T00:00:00+00:00'
 author: way0utwest
 layout: post
