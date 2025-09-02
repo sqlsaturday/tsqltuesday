@@ -222,7 +222,7 @@ Louis Davidson – Hosted: 1 ([176](../176))
 
 [TJay Belt](https://tjaybelt.blogspot.com/) – Hosted: 1 ([141](../141))
 
-[Todd Kleinhans](https://toddkleinhans.wordpress.com/) – Hosted: 2 ([113](../113), [172](../172))
+[Todd Kleinhans](https://toddkleinhans.wordpress.com/) – Hosted: 3 ([113](../113), [172](../172), [190](../190))
 
 [Tom Zika](https://straightforwardsql.com/) – Hosted: 1 ([156](../156))
 
