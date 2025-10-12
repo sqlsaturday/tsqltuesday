@@ -1,16 +1,20 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 18900
+title: 'T- SQL Tuesday #191 Invitation: Your Favorite String Parsing Routines'
+date: '2025-10-12T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/191'
+categories:
+    - Invitations
+tags:
+    - '2025'
+    - 't-sql'
+    - 'development'
 ---
-
-## The Current Invitation
-My apologies! I forgot to check with the host and they missed the Oct date. I'm adding my own invite and extending this a week. Please write on Oct 21.
-
-The current invitation (October 2025) is for [T-SQL Tuesday #191](../191). The next invitation should be released on November 4.
 
 [Invitation](https://voiceofthedba.com/2025/10/12/t-sql-tuesday-191-invitation-your-favorite-string-parsing/) from [Steve Jones](https://voiceofthedba.com/)
 
-## T-SQL Tuesday #191: Invitation–Your Favorite String Parsing
 Your Favorite String Parsing Routines
 One of the things that I’ve had to do a log in my career is parse strings in different ways. It seems our customers constantly find new ways to stick data into a string that we would prefer to have normalized in some way for searching, indexing, etc.
 
