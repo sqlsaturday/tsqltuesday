@@ -13,7 +13,7 @@ tags:
     - 'development'
 ---
 
-[Invitation](https://voiceofthedba.com/2025/10/12/t-sql-tuesday-191-invitation-your-favorite-string-parsing/) from [Steve Jones](https://voiceofthedba.com/)
+[Invitation](https://voiceofthedba.com/2025/10/12/t-sql-tuesday-191-invitation-your-favorite-string-parsing/) and [roundup](https://voiceofthedba.com/2025/10/28/t-sql-tuesday-191-round-up/) from [Steve Jones](https://voiceofthedba.com/)
 
 Your Favorite String Parsing Routines
 One of the things that I’ve had to do a log in my career is parse strings in different ways. It seems our customers constantly find new ways to stick data into a string that we would prefer to have normalized in some way for searching, indexing, etc.
