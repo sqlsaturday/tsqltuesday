@@ -1,6 +1,6 @@
 ---
 id: 18500
-title: 'T-SQL Tuesday #185 - Managing Agent Jobs'
+title: 'T-SQL Tuesday #186 - Managing Agent Jobs'
 date: '2025-05-06T00:00:00+00:00'
 author: way0utwest
 layout: post
