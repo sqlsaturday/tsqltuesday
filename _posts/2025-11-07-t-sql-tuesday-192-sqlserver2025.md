@@ -1,12 +1,16 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 19000
+title: 'T- SQL Tuesday #192 Invitation: SQL Server 2025 Excitement'
+date: '2025-11-07T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/192'
+categories:
+    - Invitations
+tags:
+    - '2025'
+    - 'sql server'
 ---
-
-## The Current Invitation
-I'm late, I'm sorry, but here it is!
-
-The current invitation (November 2025) is for [T-SQL Tuesday #192](../192). The next invitation should be released on December 2.
 
 [Invitation](https://voiceofthedba.com/2025/11/07/t-sql-tuesday-192-invitation-sql-server-2025-excitement/) from [Steve Jones](https://voiceofthedba.com/)
 
