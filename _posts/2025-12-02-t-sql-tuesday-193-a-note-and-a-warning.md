@@ -1,12 +1,16 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 19000
+title: 'T- SQL Tuesday #193 Invitation: '
+date: '2025-12-02T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/193'
+categories:
+    - Invitations
+tags:
+    - '2025'
+    - 'career'
 ---
-
-## The Current Invitation
-The current invitation (December 2025) is for [T-SQL Tuesday #193](../193). The next invitation should be released on January 6.
-
-##  A Note to Your Past, and a Warning from Your Future
 
 [Invitation](https://straightpathsql.com/archives/2025/12/t-sql-tuesday-193-a-note-to-your-past-and-a-warning-from-your-future/) from [Mike Walsh](https://straightpathsql.com/sql-server-blog/)
 
