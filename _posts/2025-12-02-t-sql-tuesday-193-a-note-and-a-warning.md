@@ -1,6 +1,6 @@
 ---
 id: 19000
-title: 'T- SQL Tuesday #193 Invitation: '
+title: 'T- SQL Tuesday #193 Invitation: A Note to Your Past, and a Warning from Your Future'
 date: '2025-12-02T00:00:00+00:00'
 author: way0utwest
 layout: post
