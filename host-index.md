@@ -164,7 +164,7 @@ Louis Davidson – Hosted: 1 ([176](../176))
 
 [Mike Fal](http://www.mikefal.net/) – Hosted: 1 ([033](../033))
 
-[Mike Walsh](https://straightpathsql.com/sql-server-blog/) – Hosted: 1 ([004](../004))
+[Mike Walsh](https://straightpathsql.com/sql-server-blog/) – Hosted: 2 ([004](../004), [193](../193))
 
 [Mikey Bronowski](https://www.bronowski.it/blog/) – Hosted: 1 ([135](../135))
 
