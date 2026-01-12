@@ -8,7 +8,7 @@ The current invitation (December 2025) is for [T-SQL Tuesday #193](../193). The 
 
 ##  A Note to Your Past, and a Warning from Your Future
 
-[Invitation](https://straightpathsql.com/archives/2025/12/t-sql-tuesday-193-a-note-to-your-past-and-a-warning-from-your-future/) from [Mike Walsh](https://straightpathsql.com/sql-server-blog/)
+[Invitation](https://straightpathsql.com/archives/2025/12/t-sql-tuesday-193-a-note-to-your-past-and-a-warning-from-your-future/) and [recap](https://straightpathsql.com/archives/2026/01/t-sql-tuesday-193-notes-to-ourselves/)from [Mike Walsh](https://straightpathsql.com/sql-server-blog/)
 
 I last hosted T-SQL Tuesday back in 2010 ([T-SQL Tuesday #4 IO](https://straightpathsql.com/archives/2010/03/invitation-for-t-sql-tuesday-004-io/)), I guess it’s been a minute!
 
