@@ -6,6 +6,7 @@ permalink: /the-archive/
 
 This is the archive of all T-SQL Tuesday invitations.
 
+- [2026](../tags/#2026)
 - [2025](../tags/#2025)
 - [2024](../tags/#2024)
 - [2023](../tags/#2023)

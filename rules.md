@@ -17,18 +17,9 @@ Now that that’s out of the way, without further ado, I present…
 **The Official T-SQL Tuesday Rules, as of January 2017**
 
 1. Each month, a host blogger will be assigned to create a T-SQL Tuesday event on his or her blog.
-2. Creating an event entails several steps: 
-    1. First the host blogger must be assigned to a month. 
-        1. Getting a month assigned means [contacting Steve Jones](http://tsqltuesday.com/requesttohost) and asking to host.
-        2. Prior to writing to me you must have participated in at least two prior T-SQL Tuesday events as a blogger.
-        3. Prior to writing to me your blog must show decent on-going activity. This means, for established blogs, at least 6 technical posts a year. For newer blogs, I expect to see at least one technical post a month sustained for at least six months.
-        4. Assuming that everything checks out, I will give you the next available month. Usually things are booked out four to six months in advance.
-        5. I try not to repeat hosts more often than once every 24 months.
-    2. The host blogger must first choose a topic. 
-        1. Despite the name of the event, this topic does *not* need to be about T-SQL, and in fact ideally should not be. Any topic in or related to the SQL Server realm can be covered.
-        2. It is *strongly suggested* that topics be technical in nature, and also strongly suggested that topics be broad enough to cover a variety of different interests and job functions. A T-SQL specific topic would therefore not be recommended, as it would eliminate people who want to write about MDX, DAX, R, PowerShell, C#, or some other related toolset. Remember that not everyone is you, and that’s what makes this fun; we want to hear from all sorts of different perspectives.
-        3. A list of all prior topics is available on this site.
-    3. The host blogger must create an invitation blog post. The invitation post is the means by which the host blogger will advertise that month’s event. 
+2. Getting a month assigned means [contacting Steve Jones](http://tsqltuesday.com/requesttohost) and asking to host.  I try not to repeat hosts more often than once every 24 months.
+3. The host blogger must first choose a topic. Despite the name of the event, this topic does *not* need to be about T-SQL, and in fact ideally should not be. Any topic in or related to the SQL Server realm can be covered. It is *strongly suggested* that topics be technical in nature, and also strongly suggested that topics be broad enough to cover a variety of different interests and job functions. A T-SQL specific topic would therefore not be recommended, as it would eliminate people who want to write about MDX, DAX, R, PowerShell, C#, or some other related toolset. Remember that not everyone is you, and that’s what makes this fun; we want to hear from all sorts of different perspectives.
+4. The host blogger must create an invitation blog post. The invitation post is the means by which the host blogger will advertise that month’s event. 
         1. The invitation post must include T-SQL Tuesday and the event number in its title.
         2. The invitation post must include the [T-SQL Tuesday logo](http://dataeducation.com/t-sql-tuesday-007-and-t-sql-tuesday-has-a-logo/).
         3. The invitation post should usually go live either on the Tuesday one week prior to the second Tuesday of the event month, or on the Monday before that Tuesday. Note that some hosts have posted a bit earlier than that, in order to give participants more time. That’s allowed, but it usually backfires in the form of low participation as participants forget to write their posts. Posting later than a week out can backfire as well, due to people not having enough time. 
@@ -37,17 +28,16 @@ Now that that’s out of the way, without further ado, I present…
         5. The invitation post must mention that participant posts should go live on the second Tuesday of the event month. The recommendation is to limit this to 0:00 UTC to 23:59 UTC on that day, but hosts are free to change the rule to local time zones or however they see fit to enforce it.
         6. The invitation post should describe how participants should make the host aware of participating posts – via trackbacks, comments on the invitation blog post, etc.
         7. I appreciate it if invitation posts tell people to contact me so that they can host. But that’s not required.
-    4. The host blogger should advertise his or her invitation through social media channels. Advertising can be done on the official T-SQL Tuesday hashtag, [\#tsql2sday](https://twitter.com/search?q=%23tsql2sday).
-    5. The host is not required to participate in the month’s event by creating his or her own on-topic post, but it is recommended.
-    6. After the second Tuesday of the month, ideally by the end of the week, the host is expected to post a “round up.” The round up is a blog post that reiterates the month’s topic and links to all of the participant blog posts. Ideally this round up post should include some overall commentary on the content that was produced, and maybe some individual comments on each blog post.
-3. Participating in a T-SQL Tuesday simply means writing a blog post 
+5. The host blogger should advertise his or her invitation through social media channels. Advertising can be done on the official T-SQL Tuesday hashtag, [\#tsql2sday](https://twitter.com/search?q=%23tsql2sday). The host is not required to participate in the month’s event by creating his or her own on-topic post, but it is recommended.
+6. After the second Tuesday of the month, ideally by the end of the week, the host is expected to post a “round up.” The round up is a blog post that reiterates the month’s topic and links to all of the participant blog posts. Ideally this round up post should include some overall commentary on the content that was produced, and maybe some individual comments on each blog post.
+7. Participating in a T-SQL Tuesday simply means writing a blog post 
     1. Any blogger can (and should!) participate. It does not matter how long your blog has been active or where you blog or even what language you post in. WE WANT YOU.
     2. The blog post should be on topic for the month as described in the invitation blog.
     3. The blog post should go live at the appropriate time as specified in the invitation post.
     4. Participant blog posts need not mention the text “T-SQL Tuesday” in either the subject or the body.
     5. Participant blog posts must include the [T-SQL Tuesday logo](http://localhost:8000/wp-content/uploads/2018/07/T-SQL-Tuesday-Logo.jpg). The logo must link back to the invitation post. This is the primary hard and fast rule that drives T-SQL Tuesday and the host reserves the right to not link back to you if you don’t follow it. If you don’t link, you’re not acting in the spirit of the event and you are in fact being very rude.
     6. That’s it! Have fun, write great content, and submit it.
-4. All other questions or concerns 
+8. All other questions or concerns 
     1. Figure it out for yourself and do what you think is best
     2. Failing number one, write to me and I’ll tell you what I think is best
 
