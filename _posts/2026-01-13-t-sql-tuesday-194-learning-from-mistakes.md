@@ -1,12 +1,16 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 19000
+title: 'T- SQL Tuesday #194 Invitation: Learning from mistakes'
+date: '2025-12-02T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/194'
+categories:
+    - Invitations
+tags:
+    - '2026'
+    - 'career'
 ---
-
-## The Current Invitation
-The current invitation (January 2026) is for [T-SQL Tuesday #194](../194). The next invitation should be released on February 3.
-
-##  Learning from Mistakes
 
 [Invitation](https://drsql.link/2026/01/13/t-sql-tuesday-194-invitation-learning-from-mistakes/) from [Louis Davidson](https://drsql.link/)
 
