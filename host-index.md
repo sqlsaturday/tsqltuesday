@@ -144,7 +144,7 @@ Kevin Feasel – Hosted: 1 ([174](../174))
 
 [Lisa Griffin Bohm](https://lisagb.info/) – Hosted: 1 ([133](../133))
 
-Louis Davidson – Hosted: 1 ([176](../176))
+[Louis Davidson](https://drsql.link/) – Hosted: 2 ([194](../194))
 
 [Mala Mahadevan](https://curiousaboutdata.com/) – Hosted: 5 ([097](../097), [108](../108), [121](../121), [151](../151), [177](../177))
 
