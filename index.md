@@ -4,7 +4,7 @@ title: "T-SQL Tuesday"
 ---
 
 ## The Current Invitation
-The current invitation (January 2026) is for [T-SQL Tuesday #194](../194). The next invitation should be released on February 3.
+The current invitation (January 2026) is for [T-SQL Tuesday #194](../194). The next invitation should be released on February 3, 2026.
 
 ##  Learning from Mistakes
 
