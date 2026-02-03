@@ -1,7 +1,7 @@
 ---
 id: 19000
 title: 'T- SQL Tuesday #194 Invitation: Learning from mistakes'
-date: '2025-12-02T00:00:00+00:00'
+date: '2026-01-12T00:00:00+00:00'
 author: way0utwest
 layout: post
 permalink: '/194'
