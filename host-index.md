@@ -174,7 +174,7 @@ Kevin Feasel – Hosted: 1 ([174](../174))
 
 [Nigel Sammy](http://www.nigelpsammy.com/) – Hosted: 1 ([029](../029))
 
-[Pat Wright](https://sqlasylum.wordpress.com/) – Hosted: 1 ([015](../015))
+[Pat Wright](https://sqlasylum.wordpress.com/) – Hosted: 2 ([015](../015), [195](../195))
 
 [Paul Randal](http://www.sqlskills.com/blogs/paul/) – Hosted: 1 ([012](../012))
 
