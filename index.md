@@ -6,9 +6,9 @@ title: "T-SQL Tuesday"
 ## The Current Invitation
 The current invitation (February 2026) is for [T-SQL Tuesday #195](../195). The next invitation should be released on March 3, 2026.
 
-##  How Has Your Code Aged
+##  How Has Your Code Aged?
 
-[Invitation](#tsql2sday this month from Pat Wright: https://sqlasylum.wordpress.com/2026/02/03/t-sql-tuesday-195-how-has-your-code-aged/) from [Pat Wright](https://sqlasylum.wordpress.com/2026/02/03/t-sql-tuesday-195-how-has-your-code-aged/)
+[Invitation](https://sqlasylum.wordpress.com/2026/02/03/t-sql-tuesday-195-how-has-your-code-aged/) from [Pat Wright](https://sqlasylum.wordpress.com/)
 
 For this month’s T-SQL Tuesday, I wanted to once again talk about Aging!  But not in the human sense.  I mean in the code sense. It’s a simple question that can be interpreted in many ways, and I look forward to all the ways you might see this.   
 
