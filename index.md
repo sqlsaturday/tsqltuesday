@@ -8,7 +8,7 @@ The current invitation (February 2026) is for [T-SQL Tuesday #195](../195). The 
 
 ##  How Has Your Code Aged?
 
-[Invitation](https://sqlasylum.wordpress.com/2026/02/03/t-sql-tuesday-195-how-has-your-code-aged/) from [Pat Wright](https://sqlasylum.wordpress.com/)
+[Invitation](https://sqlasylum.wordpress.com/2026/02/03/t-sql-tuesday-195-how-has-your-code-aged/) and [summary](https://sqlasylum.wordpress.com/2026/02/13/t-sql-tuesday-195-summary/) from [Pat Wright](https://sqlasylum.wordpress.com/)
 
 For this month’s T-SQL Tuesday, I wanted to once again talk about Aging!  But not in the human sense.  I mean in the code sense. It’s a simple question that can be interpreted in many ways, and I look forward to all the ways you might see this.   
 
