@@ -92,6 +92,8 @@ David Bryce Howard – Hosted: 1 ([026](../026))
 
 [James McGillivray](https://jimbabwe.co.za/blog-posts/) – Hosted: 1 ([134](../134))
 
+[James Serra](https://www.jamesserra.com/) – Hosted: 1 ([196](../196))
+
 [Jason Brimhall ](http://jasonbrimhall.info/)– Hosted: 5 ([009](../009), [038](../038), [051](../051), [081](../081), [109](../109))
 
 [Jeff Mlakar](https://www.mlakartechtalk.com/) – Hosted: 1 ([107](../107))
