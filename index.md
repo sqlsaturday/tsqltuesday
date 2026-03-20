@@ -4,34 +4,9 @@ title: "T-SQL Tuesday"
 ---
 
 ## The Current Invitation
-The current invitation (March 2026) is for [T-SQL Tuesday #196](../196). The next invitation should be released on April 7, 2026.
+The current invitation (April 2026) is for [T-SQL Tuesday #197](../197). The next invitation should be released on Mar 5, 2026.
 
-##  What Risks Have You Taken in Your Career?
+##  
 
-[Invitation](https://www.jamesserra.com/archive/2026/03/t-sql-tuesday-192-what-career-risks-have-you-taken/) and [roundup](https://www.jamesserra.com/archive/2026/03/t-sql-tuesday-196-roundup-what-career-risks-have-you-taken/) from [James Serra](https://www.jamesserra.com/)
+[Invitation]() from [Steve Hughes](https://dataonwheels.wordpress.com/)
 
-The topic I’d like us to explore is one that’s a little more personal than technical: What career risks have you taken?
-
-Not just the safe moves. Not the obvious promotions. The real risks — the moments where you weren’t sure how it would turn out.
-
-That’s what I’d love to hear about.
-
-I’ve been in the IT industry for 40 years, and here’s what I’ve learned — not from theory or motivational posters, but from lived experience: if you don’t take risks, your career will stall.
-
-Success doesn’t happen by accident. Nobody “accidentally” ends up in a great job with great pay, and nobody stumbles into owning a successful business. If you ask anyone who has built something meaningful whether they did it without risk, the answer is always the same: “No way.” They took chances. Some worked, some didn’t — but they moved.
-
-Risk-taking was modeled for me early. My dad was a bricklayer on Long Island in his late 20s with a young family — me and my two sisters. Bricklaying is real work: eight hours in 95-degree heat or freezing winters, with a physical toll every single day. After falling off a scaffold and breaking his leg, he decided he wasn’t going to do that for the rest of his life.
-
-So my parents took a huge risk. They moved our entire family from New York to Las Vegas in the mid-70s — when the mob still ran most of the casinos — and my dad became a craps dealer. We knew almost no one there, and it could have gone very differently. But it paid off. He made more money, saved his body from years of physical wear, and built a nearly 40-year career as a dealer and floorman. He loved it.
-
-Years later, in my late 20s, I faced a similar moment. I was working in Las Vegas as a software engineer (what we used to call a programmer), making very little money. Vegas didn’t pay well for IT back then, and we were living paycheck to paycheck with our third child on the way. I didn’t want to struggle indefinitely, so we moved to Houston — sight unseen — without knowing a single person there, for a much higher-paying job.
-
-It was terrifying, but it paid off. That move opened doors and changed the trajectory of my career. When I look back, I’m proud we had the courage to do it. Meanwhile, many coworkers stayed in Vegas. They played it safe, avoided discomfort, and their careers largely stayed where they were.
-
-Over time, I learned something important: you have to get comfortable being uncomfortable. Not every risk involves moving your family across the country, but advancing your career may require changing roles internally, leaving a stable company, switching industries, or even starting something on your own. And sometimes not taking the risk is actually the bigger risk — especially if you’re counting on your career to support your family.
-
-When I face a big decision, I slow it down. I create a pros-and-cons list over several days and talk to people I trust. That process helps remove emotion and brings clarity. I’ve also seen a few truths play out repeatedly: people hate change, we’re addicted to comfort, and the first time you do something uncomfortable it’s hard — but the tenth time is much easier. Growth lives outside your comfort zone.
-
-There are plenty of examples in our industry. Brent Ozar left traditional employment to build his own consulting company. Paul Randal did the same. Those weren’t small bets — they were career-defining risks (I hope those two share their stories as a reply to my post).
-
-So I’ll leave you with this: what career risks have you taken? Did they pay off? What did you learn? Because after four decades in this field, I’m convinced of one thing — change is constant. You can either embrace it and accelerate your career, or resist it and stay on the same rung of the ladder.

@@ -212,6 +212,8 @@ Kevin Feasel – Hosted: 1 ([174](../174))
 
 [Shane O’Neil](https://nocolumnname.blog/) – Hosted: 1 ([112](../112))
 
+[Steve Hughes](https://dataonwheels.wordpress.com/) – Hosted: 1 ([197](../197))
+
 [Steve Jones](https://voiceofthedba.com) – Hosted: 11 ([013](../013), [027](../027), [106](../106), [117](../117), [137](../137), [147](../147), [155](../155), [168](../168), [183](../183), [191](../191), [192](../192))
 
 [Stuart Ainsworth](http://codegumbo.com/) – Hosted: 1 ([022](../022))
