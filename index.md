@@ -8,7 +8,7 @@ The current invitation (March 2026) is for [T-SQL Tuesday #196](../196). The nex
 
 ##  What Risks Have You Taken in Your Career?
 
-[Invitation](https://www.jamesserra.com/archive/2026/03/t-sql-tuesday-192-what-career-risks-have-you-taken/) from [James Serra](https://www.jamesserra.com/)
+[Invitation](https://www.jamesserra.com/archive/2026/03/t-sql-tuesday-192-what-career-risks-have-you-taken/) and [roundup](https://www.jamesserra.com/archive/2026/03/t-sql-tuesday-196-roundup-what-career-risks-have-you-taken/) from [James Serra](https://www.jamesserra.com/)
 
 The topic I’d like us to explore is one that’s a little more personal than technical: What career risks have you taken?
 
