@@ -6,32 +6,21 @@ title: "T-SQL Tuesday"
 ## The Current Invitation
 The current invitation (March 2026) is for [T-SQL Tuesday #196](../196). The next invitation should be released on April 7, 2026.
 
-##  What Risks Have You Taken in Your Career?
+##  An Impactful Session or Two from a Conference
 
-[Invitation](https://www.jamesserra.com/archive/2026/03/t-sql-tuesday-192-what-career-risks-have-you-taken/) and [roundup](https://www.jamesserra.com/archive/2026/03/t-sql-tuesday-196-roundup-what-career-risks-have-you-taken/) from [James Serra](https://www.jamesserra.com/)
+[Invitation](https://dataonwheels.wordpress.com/2026/04/07/t-sql-tuesday-197-an-impactful-session-or-two-from-a-conference/) from [Steve Hughes](https://dataonwheels.wordpress.com/)
 
-The topic I’d like us to explore is one that’s a little more personal than technical: What career risks have you taken?
+### The Invitation
+We are in the heart of the spring conference season. Maybe you had the opportunity to attend FabCon / SQLCon or a weekend event like Data Saturday. This month I’m inviting you to tell us about **one or more things you learned at ANY conference you have attended that has impacted you or how you work**.
 
-Not just the safe moves. Not the obvious promotions. The real risks — the moments where you weren’t sure how it would turn out.
+### My experience
+I am not sure which PASS Summit it was, either 2007 or 2008. I attended a session conducted by a Microsoft engineer from the SQL Server team. He presented on the physical storage patterns of SQL Server to disk. The session delved into how SQL Server wrote data to disk and the related impact to read and write performance.
 
-That’s what I’d love to hear about.
+This session changed how I designed tables and indexes. It also ingrained in me the importance of understanding the physical infrastructure supporting my data work. Later I would learn how to optimize storage for SQL Server Analysis Services much to the chagrin of SAN administrators. They really didn’t like me asking to only write data to the outer 10-20% of the disks.
 
-I’ve been in the IT industry for 40 years, and here’s what I’ve learned — not from theory or motivational posters, but from lived experience: if you don’t take risks, your career will stall.
+While the technology has changed, the principles have not. My focus shifted to networking and cloud design. As an architect, I didn’t need to know all the details. But I had the knowledge and understanding required to have meaningful conversations and detailed design sessions with specialists. That one session changed how I designed solutions throughout my career!
 
-Success doesn’t happen by accident. Nobody “accidentally” ends up in a great job with great pay, and nobody stumbles into owning a successful business. If you ask anyone who has built something meaningful whether they did it without risk, the answer is always the same: “No way.” They took chances. Some worked, some didn’t — but they moved.
+### Some final guidance
+When you have completed your post and published it on Tuesday, April 14th, drop a comment below. Also include the logo and a link back to this post. I will create a summary post within a week, but I need to know you wrote it. I look forward to your contribution.
 
-Risk-taking was modeled for me early. My dad was a bricklayer on Long Island in his late 20s with a young family — me and my two sisters. Bricklaying is real work: eight hours in 95-degree heat or freezing winters, with a physical toll every single day. After falling off a scaffold and breaking his leg, he decided he wasn’t going to do that for the rest of his life.
-
-So my parents took a huge risk. They moved our entire family from New York to Las Vegas in the mid-70s — when the mob still ran most of the casinos — and my dad became a craps dealer. We knew almost no one there, and it could have gone very differently. But it paid off. He made more money, saved his body from years of physical wear, and built a nearly 40-year career as a dealer and floorman. He loved it.
-
-Years later, in my late 20s, I faced a similar moment. I was working in Las Vegas as a software engineer (what we used to call a programmer), making very little money. Vegas didn’t pay well for IT back then, and we were living paycheck to paycheck with our third child on the way. I didn’t want to struggle indefinitely, so we moved to Houston — sight unseen — without knowing a single person there, for a much higher-paying job.
-
-It was terrifying, but it paid off. That move opened doors and changed the trajectory of my career. When I look back, I’m proud we had the courage to do it. Meanwhile, many coworkers stayed in Vegas. They played it safe, avoided discomfort, and their careers largely stayed where they were.
-
-Over time, I learned something important: you have to get comfortable being uncomfortable. Not every risk involves moving your family across the country, but advancing your career may require changing roles internally, leaving a stable company, switching industries, or even starting something on your own. And sometimes not taking the risk is actually the bigger risk — especially if you’re counting on your career to support your family.
-
-When I face a big decision, I slow it down. I create a pros-and-cons list over several days and talk to people I trust. That process helps remove emotion and brings clarity. I’ve also seen a few truths play out repeatedly: people hate change, we’re addicted to comfort, and the first time you do something uncomfortable it’s hard — but the tenth time is much easier. Growth lives outside your comfort zone.
-
-There are plenty of examples in our industry. Brent Ozar left traditional employment to build his own consulting company. Paul Randal did the same. Those weren’t small bets — they were career-defining risks (I hope those two share their stories as a reply to my post).
-
-So I’ll leave you with this: what career risks have you taken? Did they pay off? What did you learn? Because after four decades in this field, I’m convinced of one thing — change is constant. You can either embrace it and accelerate your career, or resist it and stay on the same rung of the ladder.
+Are interested in hosting? [Contact Steve Jones](https://tsqltuesday.com/about/) for details.
