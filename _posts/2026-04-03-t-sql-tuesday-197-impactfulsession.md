@@ -1,7 +1,7 @@
 ---
 id: 19100
 title: 'T- SQL Tuesday #197 An impactful session or two from a conference'
-date: '2026-03-03T00:00:00+00:00'
+date: '2026-04-07T00:00:00+00:00'
 author: way0utwest
 layout: post
 permalink: '/197'
