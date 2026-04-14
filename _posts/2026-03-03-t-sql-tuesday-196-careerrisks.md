@@ -1,7 +1,7 @@
 ---
 id: 19100
 title: 'T- SQL Tuesday #196 Invitation: What Career Risks Have You Taken?'
-date: '2026-02-03T00:00:00+00:00'
+date: '2026-03-03T00:00:00+00:00'
 author: way0utwest
 layout: post
 permalink: '/196'
