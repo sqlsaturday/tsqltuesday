@@ -1,10 +1,10 @@
 ---
 id: 19100
-title: 'T- SQL Tuesday #196 An impactful session or two from a conference'
+title: 'T- SQL Tuesday #197 An impactful session or two from a conference'
 date: '2026-03-03T00:00:00+00:00'
 author: way0utwest
 layout: post
-permalink: '/196'
+permalink: '/197'
 categories:
     - Invitations
 tags:
