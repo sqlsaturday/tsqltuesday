@@ -156,6 +156,8 @@ Kevin Feasel – Hosted: 1 ([174](../174))
 
 [Matthew McGiffen](https://matthewmcgiffen.com/) – Hosted: 2 ([114](../114), [167](../167))
 
+[Meagan Longoria](https://datasavvy.me/) – Hosted: 1 ([198](../198))
+
 [Michael Coles](http://sqlblog.com/blogs/michael_coles/default.aspx) – Hosted: 1 ([006](../006))
 
 [Michael J. Swart ](http://michaeljswart.com/)– Hosted: 3 ([010](../010), [052](../052), [079](../079))
