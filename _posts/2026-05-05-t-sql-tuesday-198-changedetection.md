@@ -1,12 +1,15 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 19200
+title: 'T- SQL Tuesday #198 Invitation: Change Detection'
+date: '2026-05-05T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/198'
+categories:
+    - Invitations
+tags:
+    - '2026'
 ---
-
-## The Current Invitation
-The current invitation (May 2026) is for [T-SQL Tuesday #198](../198). The next invitation should be released on June 2, 2026.
-
-##  Change Detection
 
 [Invitation](https://datasavvy.me/2026/05/04/t-sql-tuesday-198-invitation-how-do-you-detect-data-changes/) from [Meagan Longoria](https://datasavvy.me)
 
