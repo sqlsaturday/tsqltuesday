@@ -11,7 +11,7 @@ tags:
     - '2026'
 ---
 
-[Invitation](https://datasavvy.me/2026/05/04/t-sql-tuesday-198-invitation-how-do-you-detect-data-changes/) from [Meagan Longoria](https://datasavvy.me)
+[Invitation](https://datasavvy.me/2026/05/04/t-sql-tuesday-198-invitation-how-do-you-detect-data-changes/) and [roundup](https://datasavvy.me/2026/05/18/t-sql-tuesday-198-roundup-how-do-you-detect-data-changes/) from [Meagan Longoria](https://datasavvy.me)
 
 This month’s topic is change detection.
 
