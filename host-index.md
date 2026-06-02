@@ -142,7 +142,7 @@ Kevin Feasel – Hosted: 1 ([174](../174))
 
 [Kevin Kline](https://kevinekline.com/) – Hosted: 1 ([153](../153))
 
-[Koen Verbeeck](http://sqlkover.com) – Hosted: 1 ([089](../089))
+[Koen Verbeeck](http://sqlkover.com) – Hosted: 2 ([089](../089), [199](../199))
 
 [Lisa Griffin Bohm](https://lisagb.info/) – Hosted: 1 ([133](../133))
 
