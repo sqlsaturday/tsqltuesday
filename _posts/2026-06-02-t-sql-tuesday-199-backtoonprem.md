@@ -1,12 +1,17 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 26600
+title: 'T- SQL Tuesday #199 Invitation: Back to On-Prem?'
+date: '2026-06-02T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/199'
+categories:
+    - Invitations
+tags:
+    - '2026'
+    - 'career'
+    - 'cloud'
 ---
-
-## The Current Invitation
-The current invitation (June 2026) is for [T-SQL Tuesday #199](../199). The next invitation should be released on July 7, 2026.
-
-##  Back to On-Prem?
 
 [Invitation](https://sqlkover.com/t-sql-tuesday-199-invitation-back-to-on-prem/) from [Koen Verbeeck](https://sqlkover.com/)
 
