@@ -1,12 +1,17 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 26600
+title: 'T- SQL Tuesday #199 Invitation: When I Look at a Query ...'
+date: '2026-07-07T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/200'
+categories:
+    - Invitations
+tags:
+    - '2026'
+    - 't-sql'
+    - 'performance'
 ---
-
-## The Current Invitation
-The current invitation (July 2026) is for [T-SQL Tuesday #200](../200). The next invitation should be released on August 4, 2026.
-
-##  When I Look at a Query ...
 
 [Invitation](https://www.brentozar.com/archive/2026/06/get-your-blog-posts-ready-for-t-sql-tuesday-200-heres-the-topic/) from [Koen Verbeeck](https://sqlkover.com/)
 
