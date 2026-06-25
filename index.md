@@ -8,7 +8,7 @@ The current invitation (June 2026) is for [T-SQL Tuesday #199](../199). The next
 
 ##  Back to On-Prem?
 
-[Invitation](https://sqlkover.com/t-sql-tuesday-199-invitation-back-to-on-prem/) from [Koen Verbeeck](https://sqlkover.com/)
+[Invitation](https://sqlkover.com/t-sql-tuesday-199-invitation-back-to-on-prem/) and [roundup](https://sqlkover.com/t-sql-tuesday-199-roundup/)from [Koen Verbeeck](https://sqlkover.com/)
 
 This month’s topic is moving back to on-premises environments from the cloud.
 
