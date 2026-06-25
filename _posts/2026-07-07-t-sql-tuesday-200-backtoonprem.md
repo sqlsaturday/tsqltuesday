@@ -13,7 +13,7 @@ tags:
     - 'performance'
 ---
 
-[Invitation](https://www.brentozar.com/archive/2026/06/get-your-blog-posts-ready-for-t-sql-tuesday-200-heres-the-topic/) from [Koen Verbeeck](https://sqlkover.com/)
+[Invitation](https://www.brentozar.com/archive/2026/06/get-your-blog-posts-ready-for-t-sql-tuesday-200-heres-the-topic/) from [Brent Ozar](https://sqlkover.com/)
 
 Way back in December of 2009, Adam Machanic published a [blog post](https://web.archive.org/web/20100109094421/http://sqlblog.com/blogs/adam_machanic/archive/2009/11/30/invitation-to-participate-in-t-sql-tuesday-001-date-time-tricks.aspx) in which he invited database bloggers to participate in a new monthly event he called T-SQL Tuesday. Each month, he (or a blogger he picked) proposed a topic, and on that date, we'd all publish our blog posts at the same time. It was a fun way to get a variety of opinions about a topic.
 
