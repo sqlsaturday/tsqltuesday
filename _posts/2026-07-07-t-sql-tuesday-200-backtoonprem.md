@@ -1,6 +1,6 @@
 ---
 id: 26600
-title: 'T- SQL Tuesday #199 Invitation: When I Look at a Query ...'
+title: 'T- SQL Tuesday #200 Invitation: When I Look at a Query ...'
 date: '2026-07-07T00:00:00+00:00'
 author: way0utwest
 layout: post
