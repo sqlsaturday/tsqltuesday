@@ -98,11 +98,14 @@ David Bryce Howard – Hosted: 1 ([026](../026))
 
 [Jeff Mlakar](https://www.mlakartechtalk.com/) – Hosted: 1 ([107](../107))
 
+[Jeff Taylor](https://www.jefftaylor.io/) - Hosted: 1 ([201](../201))
+
+[Jeffrey Verheul ](https://devjef.wordpress.com/)– Hosted: 2 ([057](../057), [082](../082))
+
 [Jes Borland](http://blogs.lessthandot.com/index.php/author/grrlgeek/) – Hosted: 2 ([016](../016), [067](../067))
 
 [Jess Pomfret](https://jesspomfret.com/) – Hosted: 1 ([123](../123))
 
-[Jeffrey Verheul ](https://devjef.wordpress.com/)– Hosted: 2 ([057](../057), [082](../082))
 
 [Jen McCown](http://www.midnightdba.com/Jen/author/jen/) – Hosted: 2 ([040](../040), [070](../070))
 

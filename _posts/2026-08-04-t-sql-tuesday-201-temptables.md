@@ -1,12 +1,17 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 26600
+title: 'T-SQL Tuesday #201 Invitation: Temp Tables, Friend or Foe?'
+date: '2026-08-04T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/201'
+categories:
+    - Invitations
+tags:
+    - '2026'
+    - 't-sql'
+    - 'performance'
 ---
-
-## The Current Invitation
-The current invitation (August 2026) is for [T-SQL Tuesday #201](../201). The next invitation should be released on September 1, 2026.
-
-## Temp Tables, Friend or Foe?
 
 [Invitation](https://www.jefftaylor.io/post/t-sql-tuesday-201-invitation-temp-tables-friend-or-foe) from [Jeff Taylor](https://www.jefftaylor.io/)
 
