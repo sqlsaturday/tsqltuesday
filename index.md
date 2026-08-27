@@ -8,7 +8,7 @@ The current invitation (August 2026) is for [T-SQL Tuesday #201](../201). The ne
 
 ## Temp Tables, Friend or Foe?
 
-[Invitation](https://www.jefftaylor.io/post/t-sql-tuesday-201-invitation-temp-tables-friend-or-foe) from [Jeff Taylor](https://www.jefftaylor.io/)
+[Invitation](https://www.jefftaylor.io/post/t-sql-tuesday-201-invitation-temp-tables-friend-or-foe) and [round-up](https://www.jefftaylor.io/post/t-sql-tuesday-201-round-up-temp-tables-friend-or-foe) from [Jeff Taylor](https://www.jefftaylor.io/)
 
 Recently, I was tuning a stored procedure for a client and ran into a pattern I encountered repeatedly. This one was a doozy. The query pulled 250+ million rows into a #temp table, then joined it back to itself, all to return one row. To answer a single-row question, it moved roughly 5GB of data through tempdb. To top it off, this was called thousands of times a day.
 
