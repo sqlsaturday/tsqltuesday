@@ -1,12 +1,16 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 26700
+title: 'T-SQL Tuesday #202 Invitation: That One SQL Server Outage You’ll Never Forget'
+date: '2026-09-01T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/202'
+categories:
+    - Invitations
+tags:
+    - '2026'
+    - 'disaster recovery'
 ---
-
-## The Current Invitation
-The current invitation (September 2026) is for [T-SQL Tuesday #202](../202). The next invitation should be released on October 6, 2026.
-
-## That One SQL Server Outage You’ll Never Forget
 
 [Invitation](https://marlonribunal.com/t-sql-tuesday-202-invitation-that-one-sql-server-outage-youll-never-forget/) from [Marlon Ribunal](https://marlonribunal.com/)
 
