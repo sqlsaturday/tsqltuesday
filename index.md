@@ -8,7 +8,7 @@ The current invitation (September 2026) is for [T-SQL Tuesday #202](../202). The
 
 ## That One SQL Server Outage You’ll Never Forget
 
-[Invitation](https://marlonribunal.com/t-sql-tuesday-202-invitation-that-one-sql-server-outage-youll-never-forget/) from [Marlon Ribunal](https://marlonribunal.com/)
+[Invitation](https://marlonribunal.com/t-sql-tuesday-202-invitation-that-one-sql-server-outage-youll-never-forget/)  and [roundup](https://marlonribunal.com/t-sql-tuesday-202-sql-server-outage-youll-never-forget-a-roundup/) from [Marlon Ribunal](https://marlonribunal.com/)
 
 If you have been working with SQL Server for a while, chances are you have at least one outage that you still remember clearly. It might have happened years ago, and you probably still remember what time it happened, how you found out, what you were doing when the page came in, and what you had to do to get things back to normal.
 
