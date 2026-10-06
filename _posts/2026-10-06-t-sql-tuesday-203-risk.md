@@ -1,12 +1,16 @@
 ---
-layout: home
-title: "T-SQL Tuesday"
+id: 26700
+title: 'T-SQL Tuesday #203 Invitation: Risk vs Rewards!
+date: '2026-10-06T00:00:00+00:00'
+author: way0utwest
+layout: post
+permalink: '/203'
+categories:
+    - Invitations
+tags:
+    - '2026'
+    - 
 ---
-
-## The Current Invitation
-The current invitation (October 2026) is for [T-SQL Tuesday #203](../203). The next invitation should be released on November 3, 2026.
-
-## 
 
 [Invitation](https://sqlasylum.wordpress.com/2026/10/06/t-sql-tuesday-203-risk-vs-rewards/) from [Pat Wright](https://sqlasylum.wordpress.com/)
 
