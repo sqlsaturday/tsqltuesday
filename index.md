@@ -14,7 +14,7 @@ In the database world, we have to make some very tough choices. This T-SQL Tuesd
 
 “How do you weigh the risk vs the reward of your database design decisions” 
 
-Recently I wrote an article about “Stop putting everything in the DB” <link>.  I’ve also discussed this topic at a few events recently. As a production DBA and Manager of a DBA team, I would be asked on a day-to-day basis, 
+Recently I wrote an article about [“Stop putting everything in the DB”](https://www.red-gate.com/simple-talk/databases/postgresql/why-postgresql-shouldnt-be-your-apps-answer-to-everything/).  I’ve also discussed this topic at a few events recently. As a production DBA and Manager of a DBA team, I would be asked on a day-to-day basis, 
 
 “Should we add this column to the table?”
 
