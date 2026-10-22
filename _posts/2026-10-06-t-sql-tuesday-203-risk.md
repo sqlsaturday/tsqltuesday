@@ -12,7 +12,7 @@ tags:
     - 
 ---
 
-[Invitation](https://sqlasylum.wordpress.com/2026/10/06/t-sql-tuesday-203-risk-vs-rewards/) from [Pat Wright](https://sqlasylum.wordpress.com/)
+[Invitation](https://sqlasylum.wordpress.com/2026/10/06/t-sql-tuesday-203-risk-vs-rewards/) and [Followup](https://sqlasylum.wordpress.com/2026/10/14/t-sql-tuesday-203-summary-follow-up/) from [Pat Wright](https://sqlasylum.wordpress.com/)
 
 In the database world, we have to make some very tough choices. This T-SQL Tuesday asks the question. 
 
