@@ -1,5 +1,5 @@
 ---
-id: 26700
+id: 26800
 title: 'T-SQL Tuesday #202 Invitation: That One SQL Server Outage You’ll Never Forget'
 date: '2026-09-01T00:00:00+00:00'
 author: way0utwest
