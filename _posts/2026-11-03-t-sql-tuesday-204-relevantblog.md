@@ -1,6 +1,6 @@
 ---
 id: 26900
-title: 'T-SQL Tuesday #204 Invitation: Are blogs still relevant?
+title: 'T-SQL Tuesday #204 Invitation: Are blogs still relevant?'
 date: '2026-11-03T00:00:00+00:00'
 author: way0utwest
 layout: post
