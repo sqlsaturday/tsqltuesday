@@ -1,5 +1,5 @@
 ---
-id: 26700
+id: 26800
 title: 'T-SQL Tuesday #203 Invitation: Risk vs Rewards!
 date: '2026-10-06T00:00:00+00:00'
 author: way0utwest
