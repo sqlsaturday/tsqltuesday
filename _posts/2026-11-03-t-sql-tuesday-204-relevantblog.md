@@ -12,7 +12,7 @@ tags:
     - 'career'
 ---
 
-[Invitation](https://desertdba.com/t-sql-tuesday-204-are-blogs-still-relevant/) and [roundup]() from [Jeff Iannucci](https://desertdba.com/)
+[Invitation](https://desertdba.com/t-sql-tuesday-204-are-blogs-still-relevant/) and [roundup](https://desertdba.com/t-sql-tuesday-204-are-blogs-still-relevant-roundup/) from [Jeff Iannucci](https://desertdba.com/)
 
 In 2009, right around the time [T-SQL Tuesday](https://tsqltuesday.com/) was getting started, I wasn’t a very good at SQL Server. I could install it, check some boxes, and restart the server if there were problems. But that was about it.
 
